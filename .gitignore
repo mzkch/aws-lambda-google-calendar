@@ -1,0 +1,13 @@
+# Credentials
+token.json
+credentials.json
+service_account_key.json
+
+# Virtualenv
+venv/
+
+# Editor directories and files
+.idea/
+
+# Deployment directories and files
+*.zip
